@@ -1,1 +1,1 @@
-format output of csv files
+multiple.X.linear multiple X values to y
